@@ -1,0 +1,7 @@
+2024-06-12 19:47:52 : INFO     : Starting
+2024-06-12 19:47:52 : INFO     : This is a INFO text
+2024-06-12 19:47:53 : WARNING  : This is a WARNING text
+2024-06-12 19:47:54 : CRITICAL : This is a CRITICAL text
+2024-06-12 19:47:54 : INFO     : Ending
+2024-06-12 19:47:54 : INFO     : Time used : 00:00:02
+2024-06-12 19:47:54 : INFO     : Ended with 1 Warning and 1 Critical
